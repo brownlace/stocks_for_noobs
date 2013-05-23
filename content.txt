@@ -173,3 +173,43 @@ See also: Financial professionals
 A good place to start your research on stock mutual funds is Morningstar.
 
 As you research names, you’ll see that they say things like Large Cap Value and Value Index. Pick stock mutual funds in a way that covers as many possible classes — so you’re well diversified.
+
+Where do I buy stocks?
+======================
+Whether you’re investing in stocks through a retirement plan or through a separate investment account, there are several ways you can buy stocks to best fit your goals.
+
+While we don’t recommend picking individual stocks, it’s helpful to know the basic process for buying and selling stocks. You can buy individual stocks through a brokerage account opened either with a full-service firm or a discount or online brokerage firm.
+
+Buying individual stocks
+Both full-service firms and discount or online firms are financial companies in the business of processing stock trades for customers. You’ll pay a commission for each trade, and will be required to either have funds on hand before the purchase or deposit them within three days of placing your trade. Costs vary quite a bit between full-service and discount brokers, as full-service firms are geared more towards higher-wealth investors who want help picking investments. We recommend working with an online or discount broker to avoid the high fees.  When picking a broker, we do not recommend a full-service broker, which can cost you more in fees. Instead, we recommend you work with a mutual fund company, online brokerage or discount brokerage, which will keep your fees low. The following sites can help you research different options:
+
+ • The Wall Street Journal’s (WSJ) Smart Money: www.smartmoney.com
+
+Buying mutual funds and Exchange-Traded Funds
+The process for buying mutual funds or ETFs is a bit different than buying individual stocks. Most people learn about and pick stock mutual funds and ETFs as part of the process of opening and funding a retirement plan at work or an Individual Retirement Arrangement (IRA) accounts.
+
+Buy your stocks directly through mutual funds and exchange-traded funds.
+
+You can purchase mutual funds directly from the companies that manage them. There are dozens of companies that manage mutual funds. You can learn about them here:
+
+	• The Motley Fool: How to choose a mutual fund:
+	www.fool.com/School/MutualFunds/Basics/Choosing.htm
+
+	• Investopedia mutual funds tutorial:
+	www.investopedia.com/university/mutualfunds/#axzz1We6ftS7m
+	
+You can also purchase many mutual funds through a brokerage account. There are many available, so make sure to research the one that works best for you — to see what funds are available and what the costs are. Most brokers offer a list of no-load mutual funds that can be purchased without transaction fees, but often those have other costs that could make them relatively expensive to own.
+
+If you buy stocks using ETFs, you’ll need to open a brokerage account because ETFs are traded the same way as stocks. If you don’t need advice, any online or discount brokerage account will do. Offerings are similar, though costs can vary a bit from one to the other. Check the current commission rates to see which is most competitive for whatever you plan to buy.
+
+Also look at each firm’s money-market rates, if you plan to keep cash on hand in your brokerage account. A better interest rate can make a much bigger difference than the trading commissions, if you aren’t trading that often.
+
+Many banks, credit unions and savings and loans also have brokers available to customers who want to buy or sell investments. The costs can be higher than discount brokers, but that isn’t always the case and you may receive some advice in exchange for those higher costs.
+
+In general, before picking a broker, we recommend picking the option that has a good reputation and the lowest fees.
+
+Here are a few sources that may help:
+
+	• Securities and Exchange Commission (SEC): Check out brokers and investment advisors: 	www.sec.gov/investor/brokers.htm
+
+	• Financial Industry Regulatory Authority (FINRA): Opening a brokerage account: www.finra.org/	Investors/SmartInvesting/GettingStarted/OpeningaBrokerageAccount/index.h
