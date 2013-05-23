@@ -28,3 +28,107 @@ Stocks are a way for you to invest in companies and earn money on their growth �
 Typically, the long-term benefits are significant. The past has proven that when you invest in stocks over long periods of time — 10-15 years or more — your money usually grows more than with bonds, real estate, bank savings accounts or other types of accounts, like Certificates of Deposit (CDs). There are always market ups-and-downs along the way, of course. But if you view stocks as long-term investments (at least five years, but more like 10), you don’t have to worry about daily fluctuations. This is defined as a Long method.
 
 This long-term approach makes investing simple. You don’t need to constantly monitor individual companies to decide which stocks are better or worse. Instead, you buy mutual funds in the stock asset classes that you prefer, and only revisit that mix should your financial needs change.
+
+
+How to get started with Options
+==============================
+While it’s helpful to understand stocks by thinking of individual companies, most savvy investors don’t bother buying individual company stocks. Instead they own mutual funds that invest in a variety of stocks all at once.
+
+Mutual Funds
+The main benefit of owning mutual funds is that even a small investment like $1,000 can be well diversified across dozens or even hundreds of companies. That kind of diversification isn’t possible with individual stocks, unless you have a huge amount of money to invest.
+
+
+Why should I diversify my stocks?
+=================================
+You want to diversify for many reasons — the simplest reason is that it takes a lot of work to figure out which companies are worth investing in. Even experienced professionals often get it wrong. When you diversify, getting it wrong just doesn’t hurt you as much, because it only affects a small portion of your account.  There’s much less individual risk involved when you take a long-term investment approach and you diversify through a mutual fund.
+
+If you’ve heard the phrase “Don’t put all your eggs in one basket” it applies here. If you drop the basket holding all your eggs, they all crack. Similarly, if you put all your money in one or two investments, you risk losing that money if those few investments lose value.
+
+A great deal of what you see on financial television is focused on the stock pick of the day — often a hot company or industry. Studies of individual investor accounts have shown that most people who own individual stocks typically own three or less. Those studies also show that most of these kinds of investors do very poorly with their investments.
+
+It’s better in the long run to diversify your stock ownership with a mutual fund and focus on the stock asset classes — categories of stocks that we’ll explain a bit later — to help you pick. Owning dozens or hundreds of stocks means that a few bad picks won’t to hurt you too much.
+
+Given the proven success of mutual funds, most investors never need to invest directly in individual stocks. For beginner to advanced investors, mutual funds — and their closely related cousin ETFs — are your best options.
+
+How do I pick what stocks to invest in?
+Stock market history proves that you don’t need to focus on a specific industry to invest in — energy, technology or pharmaceuticals, for example. What matters more is how a company manages its finances and operations.
+
+If a company doesn’t have a good history of earnings or is a very small company, there’s more risk in their stock. If a company is large and stable and has shown growth over a long period of time, there is less risk.
+
+Companies experience natural ups and downs, too, based on both the stock market and the economy. But, when you diversify, and create a balance of lower to higher risk stocks — so you don’t have to focus on a company’s individual performance.
+
+Three factors that are significant in sorting stocks into categories are //stock size, //stock valuation and //stock geography.
+
+//Stock size
+The investment world determines a stock size by calculating the company’s market capitalization, or market cap. Market capitalization is the total stock market value of a company’s stock, which is determined by multiplying the current share price by the number of shares that exist. You might think of it as the cost of buying all existing shares of the company, based on the current price.
+
+Price Per Share x Outstanding Shares = Market Capitalization
+Apple's stock market value/Market Capitalization: $441.35 * 938.65M = $414.88B 
+
+Companies are usually divided into three size ranges: small-cap, mid-cap and large-cap. Definitions can vary, but here are approximates for each category:
+
+- Large-cap: Companies with a value of more than $10 billion
+- Mid-cap: Companies with a value of $2 billion to $10 billion
+- Small-cap: Companies with a value less than $2 billion
+
+It is a general assumption is that large companies have less risk, because they have more financial security — they’re established, have more revenue, typically sell a wider mix of products and can borrow money more cheaply. Small companies have more risk, because they aren’t as stable as large companies. Mid-caps sit in the middle.
+
+It is a general assumption that large companies have less risk, because they have more financial security — they’re established, have more revenue, typically sell a wider mix of products and can borrow money more cheaply. Small companies have more risk, because they aren’t as stable as large companies. Mid-caps sit in the middle.
+
+In the history of the stock market, U.S. small-cap stocks have as a group averaged about 2% higher annual returns per year than U.S. large-caps. But that’s a very rough average and it’s not always the case. There have been periods of more than 10 years where large-caps did better, while also being a bit more stable (less likely to swing up and down in price). And sometimes, mid-caps do the best.
+
+What you really need to know is that these classes of stock act a little differently — so size matters. In general, the smaller a company is, the higher the risk is. It’s good to have a balance that includes small-cap and mid-cap stocks, but not too many.
+
+//Stock valuation
+Stock valuation is the hardest factor to understand when picking stocks. A lot of times, the valuation is included in the name of a mutual fund or ETF you are considering. So understanding valuation will make it easier for you to pick your mix of investments.
+
+The financial world divides stocks into three basic valuation categories: • value stocks, • growth stocks and • core stocks (or neutral). While it’s tempting to put all your money in growth stocks — to watch your money grow faster — you want to be wary of risk.
+
+Here is a description of each stock type:
+
+• Growth stocks
+In general, growth stocks tend to be companies that investors believe will have increased earnings in the future. Their stocks are priced based on that expectation. A lot of the investing world focuses on these stocks because they’re exciting and newsworthy — a growing clothing line, a hot new technology, a new potential cure for a disease. But, if the company doesn’t grow like expected then you could lose money. That’s where the risk comes in.
+
+• Value stocks
+Value stocks sell at a low price relative to what the company earns or its asset value. Asset value (or book value, to accountants) is the total worth of its assets, minus the company’s debt. Included in this group are slow-growth companies, companies whose businesses are gradually shrinking and distressed companies that have fallen on hard times — maybe just temporarily or maybe for good.
+
+• Core or neutral stocks
+Core, or neutral, stocks don’t fall clearly into either category. They include any stocks that are not classified as value or growth stocks.
+
+How to balance growth, value and core stocks:
+At first glance, growth stocks seem to be the best place to invest. But the surprising fact is that these exciting stocks aren’t necessarily the best investments. Value stocks of U.S. and international companies have returned more than growth or core stocks over most long-term investing periods (more than 10 years).
+
+There are many possible explanations for this, but the simplest might be that simple phrase — buy low, sell high. You’ll make money if you can buy things when they’re cheap and sell them when they increase in price and value.
+
+Included in value stocks are a lot of companies who are simply having bad times at the moment, but could turn around. While they’re facing tough times, their stocks are basically on sale or sold at a discount.
+
+On the opposite side, many growth stocks are priced for perfection, priced on the hope that they’ll do well. If the company or its products don’t stay hot for a long time, the company won’t earn enough to justify its current stock price or for that price to go up.
+
+Whatever the reason, value stocks have outperformed growth over the long haul. That may change, but it suggests that there’s some sense to focusing a bit more on value stocks.
+
+Some investors stay away from the idea of buying value or growth stocks and focus on mutual funds, such as “total market funds,” that focus on core stocks. That way, they avoid the natural ups and downs of growth and value stocks. Whether you invest that way depends on whether you believe value or growth stocks will do better. Historically, value stocks have outperformed the others — but that doesn’t mean the trend will continue.
+
+• Stock geography
+Not all companies, and therefore not all stocks, are located in the United States. International stocks are a common part of a balanced investment portfolio.
+
+There are two common classifications of international stocks: developed market and emerging market. These two types of stocks have different levels of risk.
+
+	Developed markets
+	Developed markets are similar to the United States, with stable governments and economies. 	Most international stocks owned by investors are from developed markets — countries like 	Japan, Germany or the United Kingdom. If you add up the values of all the stocks traded on 	developed markets, it’s a bit larger than the value of the U.S. stock market.
+
+	Emerging markets
+	Emerging countries were once called “Third World” countries. Because they’re up-and-coming 	economically, they typically have more risk than stocks from developed markets. Many different 	factors are taken into conciderations stocks of Emerging countries’ governments may be 	unstable, their economies may be growing rapidly, their stock exchanges might not be fully 	developed or their companies may not have good financial reporting.
+	
+	Adding up the value of all emerging markets, the stocks traded there are worth about a quarter 	of the value of the U.S. stock market. They’re also much smaller markets or they’re markets 	that are dominated by only one or two big companies. For most emerging market nations, the 	combined value of all the stocks traded on that country’s stock market is less than the value 	of a single large U.S. company, like Exxon or Walmart. 
+	
+Currency risk
+One additional risk that comes with most foreign stocks, both developed and emerging, is currency risk. This is the risk that comes from owning things whose prices are expressed in something other than U.S. dollars — like Japanese yen, European Union euros or the Brazilian real.
+
+When you buy or sell these stocks, you exchange dollars into the local currency and back. When the exchange rate changes, so does your stock value. If the dollar gets stronger, your foreign investments might reduce in value. If the dollar gets weaker, your foreign investments might increase in value. So, if you own foreign stocks, they can be a helpful form of diversification that protects you if the U.S. dollar value drops.
+
+Foreign stock market indices
+Like in the U.S, there are numerous stock market indices designed to tell you how these foreign markets are doing. A stock market index attempts to measure how a group of similar stocks performed. Like with U.S. indexes — Standard and Poor (S&P) 500 or the Dow Jones Industrial Average, for example — foreign stocks have indexes.
+
+One frequently mentioned international stock index that is the focus of some of the largest overseas mutual funds is the MSCI-EAFE. This index is like an overseas version of the S&P 500 — it includes large companies based in Europe, Asia and the Pacific.
+
+Bloomberg List of World Stock Market Indices: www.bloomberg.com/markets
