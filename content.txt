@@ -212,4 +212,31 @@ Here are a few sources that may help:
 
 	• Securities and Exchange Commission (SEC): Check out brokers and investment advisors: 	www.sec.gov/investor/brokers.htm
 
-	• Financial Industry Regulatory Authority (FINRA): Opening a brokerage account: www.finra.org/	Investors/SmartInvesting/GettingStarted/OpeningaBrokerageAccount/index.h
+	• Financial Industry Regulatory Authority (FINRA): Opening a brokerage account: www.finra.org/	Investors/SmartInvesting/GettingStarted/OpeningaBrokerageAccount/index.html
+	
+
+Trading Stocks...Long Side & Short Side
+=======================================
+There are two ways you can trade stock.  Long which is the notion of holding a stock in the promise that it will increase in value and sell it at a future date for a profit. Then there is the short selling side, which is the function of selling then buying a security as it declines in value.
+
+Options are another alternative to stock ownership. They allow anyone to trade a option to buy in the future, the underlying stock being optioned.This type of security represents high return coupled with high risk. 
+
+What Are Options
+================
+Options, are the right to buy a stock at a future date.  This way of trading a stock presents risks such as a time frame to buy that option or sell that option.  There is a direct relationship between time and strike price and the actual price of the stock.   Investor must pay attention while trading or preset thresholds or limits in order to trade properly due to the fast pasced nature of options trading and can be very rewarding.  The are several notable systems and newsletters on this What is Stock webpage to assist investors in learning how to trade options.  Waht is stock tries to help you in understanding all that is stock.
+
+What is Penny Stock?
+====================
+Penny stocks are shares of a Company that trade from a fraction of a penny to $5.
+
+They are riskier than average investments, but have tremendous reward potential. Indeed, some penny stocks have gone from 25 cents to $20.00, while others have become worthless with no value.
+
+Penny stocks have had a bad name because of risk and lack of in depth information about the companies.
+
+In today's environemnt investors are quickly learning that penny stocks represent most of the  smaller companies across America and in other countries, that have yet to grow or be discovered.
+
+Investors like penny stocks because it does not take a big cash outlay to get started, and you can own a piece of a good company inexpensively.
+
+The upside of penny stocks is the ability to turn a small investment into a substantial one.
+
+The downside is the risk, volatility of the shares, limited market makers and the lack of corporate transparency.
