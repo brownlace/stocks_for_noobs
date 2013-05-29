@@ -1,7 +1,14 @@
 Stocks for Noobs
 
+
 Intro
 =====
+Wouldn't you love to be a business owner without ever having to show up at work? Imagine if you could sit back, watch your company grow, and collect the dividend checks as the money rolls in! This situation might sound like a pipe dream, but it's closer to reality than you might think.
+
+As you've probably guessed, we're talking about owning stocks. This fabulous category of financial instruments is, without a doubt, one of the greatest tools ever invented for building wealth. Stocks are a part, if not the cornerstone, of nearly any investment portfolio. When you start on your road to financial freedom, you need to have a solid understanding of stocks, how to get started, and the mass bundle of available resources. 
+
+
+=============================================================================
 When you see “stock” think “part owner" of a company. Stock is an ownership stake in a corporation. A company’s stocks, or shares, are a way to keep track of the ownership of the company. If a company has issued 100,000 shares of stock, each individual share represents 1/100,000th of that company. These shares can be traded among investors. The trading process is very simple for companies that are publicly traded, meaning capable of being bought and sold " a market" by anyone through a stock exchange (a market for trading stocks).
 
 Individual investors are mostly interested in publicly traded stocks. Private companies — a small business accros town, for example — may be a corporation with stock, but only a few people are involved in the business and it’s very difficult to buy and sell shares of ownership. Publicly traded stocks are a simple way to have a "share of ownership" in a business and to benefit from its profits. You can own a share of the company without having any involvement in the day-to-day operations — and you can sell your shares to trade them in for cash at any time.
@@ -240,3 +247,8 @@ Investors like penny stocks because it does not take a big cash outlay to get st
 The upside of penny stocks is the ability to turn a small investment into a substantial one.
 
 The downside is the risk, volatility of the shares, limited market makers and the lack of corporate transparency.
+
+Bibliography
+============
+http://www.whatisstocks.org
+http://www.investopedia.com/university/stocks/
