@@ -7,9 +7,17 @@ Wouldn't you love to be a business owner without ever having to show up at work?
 
 As you've probably guessed, we're talking about owning stocks. This fabulous category of financial instruments is, without a doubt, one of the greatest tools ever invented for building wealth. Stocks are a part, if not the cornerstone, of nearly any investment portfolio. When you start on your road to financial freedom, you need to have a solid understanding of stocks, how to get started, and the mass bundle of available resources. 
 
-
-=============================================================================
+What are stocks?
+================
 When you see “stock” think “part owner" of a company. Stock is an ownership stake in a corporation. A company’s stocks, or shares, are a way to keep track of the ownership of the company. If a company has issued 100,000 shares of stock, each individual share represents 1/100,000th of that company. These shares can be traded among investors. The trading process is very simple for companies that are publicly traded, meaning capable of being bought and sold " a market" by anyone through a stock exchange (a market for trading stocks).
+
+A stock is represented by a stock certificate. This is a fancy piece of paper that is proof of your ownership. In today's computer age, you won't actually get to see this document because your brokerage keeps these records electronically, which is also known as holding shares "in street name". This is done to make the shares easier to trade. In the past, when a person wanted to sell his or her shares, that person physically took the certificates down to the brokerage. Now, trading with a click of the mouse or a phone call makes life easier for everybody.
+
+Being a shareholder of a public company does not mean you have a say in the day-to-day running of the business. Instead, one vote per share to elect the board of directors at annual meetings is the extent to which you have a say in the company. For instance, being a Microsoft shareholderdoesn't mean you can call up Bill Gates and tell him how you think the company should be run. In the same line of thinking, being a shareholder of Anheuser Busch doesn't mean you can walk into the factory and grab a free case of Bud Light! 
+
+The management of the company is supposed to increase the value of the firm for shareholders. If this doesn't happen, the shareholders can vote to have the management removed, at least in theory. In reality, individual investors like you and I don't own enough shares to have a material influence on the company. It's really the big boys like large institutional investors and billionaire entrepreneurs who make the decisions. 
+
+For ordinary shareholders, not being able to manage the company isn't such a big deal. After all, the idea is that you don't want to have to work to make money, right? The importance of being a shareholder is that you are entitled to a portion of the company's profits and have a claim on assets. Profits are sometimes paid out in the form of dividends. The more shares you own, the larger the portion of the profits you get. Your claim on assets is only relevant if a company goes bankrupt. In case of liquidation, you'll receive what's left after all the creditors have been paid. This last point is worth repeating: the importance of stock ownership is your claim on assets and earnings. Without this, the stock wouldn't be worth the paper it's printed on. 
 
 Individual investors are mostly interested in publicly traded stocks. Private companies — a small business accros town, for example — may be a corporation with stock, but only a few people are involved in the business and it’s very difficult to buy and sell shares of ownership. Publicly traded stocks are a simple way to have a "share of ownership" in a business and to benefit from its profits. You can own a share of the company without having any involvement in the day-to-day operations — and you can sell your shares to trade them in for cash at any time.
 
@@ -22,6 +30,12 @@ When you buy stock, you become a shareholder in a company — one of thousands o
 Voting rights have little value, so the value of a company’s stock really is set by two things: 
 1.    how much the company is expected to earn (future dividends) 
 2.    how much it would be worth if it was sold (earnings and assets).
+
+=============================================================================
+
+
+
+
 
 
 
