@@ -94,7 +94,7 @@ The financial world divides stocks into three basic valuation categories: • va
 Here is a description of each stock type:
 
 • Growth stocks
-In general, growth stocks tend to be companies that investors believe will have increased earnings in the future. Their stocks are priced based on that expectation. A lot of the investing world focuses on these stocks because they’re exciting and newsworthy — a growing clothing line, a hot new technology, a new potential cure for a disease. But, if the company doesn’t grow like expected then you could lose money. That’s where the risk comes in.
+In general, growth stocks tend to be companies that investors believe will have increased earnings in the future. Their stocks are priced based on that expectation. A lot of the investoring world focuses on these stocks because they’re exciting and newsworthy — a growing clothing line, a hot new technology, a new potential cure for a disease. But, if the company doesn’t grow like expected then you could lose money. That’s where the risk comes in.
 
 • Value stocks
 Value stocks sell at a low price relative to what the company earns or its asset value. Asset value (or book value, to accountants) is the total worth of its assets, minus the company’s debt. Included in this group are slow-growth companies, companies whose businesses are gradually shrinking and distressed companies that have fallen on hard times — maybe just temporarily or maybe for good.
